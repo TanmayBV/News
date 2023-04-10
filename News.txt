@@ -1,2 +1,2 @@
 Title*hello*www.google
-Title*GoodMorning.www.yahoo.com
+Title*GoodMorning*www.yahoo.com
